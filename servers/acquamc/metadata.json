@@ -3,15 +3,14 @@
   "name": "AcquaMC",
   "website": "https://www.acquamc.eu/",
   "store": "https://store.acquamc.eu/",
-  "description": "Server founded in 2023 that is now returning.",
+  "description": "Italian PvP and Practice network.",
   "addresses": [
-    "play.acquamc.eu"
+    "acquamc.eu"
   ],
-  "primaryAddress": "play.acquamc.eu",
+  "primaryAddress": "acquamc.eu",
   "primaryMinecraftVersion": "1.20.4",
   "minecraftVersions": [
-    "1.20.4",
-    "26.3.*"
+    "1.20.*"
   ],
   "primaryRegion": "EU",
   "regions": [
