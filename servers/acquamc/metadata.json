@@ -8,6 +8,8 @@
     "acquamc.eu"
   ],
   "primaryAddress": "acquamc.eu",
+  "primaryColor": "#00f5d4",
+  "secondaryColor": "#00b4d8",
   "primaryMinecraftVersion": "1.20.4",
   "minecraftVersions": [
     "1.20.*"
